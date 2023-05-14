@@ -1,4 +1,3 @@
-base_model.py
 #!/usr/bin/python3
 """This program defines the base model"""
 
